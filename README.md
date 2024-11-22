@@ -1,4 +1,4 @@
-### py4e-coursera
+### py4e$-coursera
 
 All excercises done through the Cousera course: Python for Everybody Specialization
 
