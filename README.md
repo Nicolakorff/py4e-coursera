@@ -1,8 +1,11 @@
 ### py4e-coursera
 
 All excercises done through the Cousera course: Python for Everybody Specialization
+
 Offered by University of Michigan
+
 Author: the amazing dr. Charles Severance
+
 His official wbsite: https://www.py4e.com/
 
 In coursera it is divided in 5 subcourses:
